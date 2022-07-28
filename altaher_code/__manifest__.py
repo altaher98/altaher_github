@@ -11,7 +11,7 @@
     'website': '',
     'depends' : ['base'],
     'data': [
-        'views/report_statement.xml',
+        'views/code_one.xml',
     ],
     'demo': [
     ],
